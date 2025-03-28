@@ -52,5 +52,5 @@ Future Enhancements
 - Voice Command Support: For hands-free order management.
 
 Contact
-For inquiries, support, or contributions, contact Memoona Iqbal at memoonaiqbal371-@gmail.com or visit [GitHub Repository](https://github.com/Memoonaiqbal/POS)
+For inquiries, support, or contributions, contact Memoona Iqbal at memoonaiqbal3710@gmail.com or visit [GitHub Repository](https://github.com/Memoonaiqbal/POS)
 
